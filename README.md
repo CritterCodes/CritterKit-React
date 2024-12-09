@@ -1,4 +1,3 @@
-```markdown
 # @crittercodes/critter-kit-react
 
 A collection of reusable and responsive React components for building modern web applications with ease. Designed and maintained by CritterCodes.
@@ -123,4 +122,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Author
 
 Developed and maintained by **CritterCodes**.
-```
+
